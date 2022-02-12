@@ -56,6 +56,6 @@ Most important, enjoy the app!<br>
 
 ## Acknowledgements
 
-- [YouTub](https://www.youtube.org/)
+- [YouTube](https://www.youtube.org/)
 
 
